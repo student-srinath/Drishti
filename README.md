@@ -1,4 +1,4 @@
-# Drishti-
+# Drishti
 We created a detachable mobility aid that fits any standard walking cane, improving navigation for the visually impaired. It offers online functionality to detect and describe surroundings using  in real-time, while offline it uses ultrasonic sensors for path detection when Wi-Fi is unavailable, enhancing overall navigation.
 
 This was a part of our Design Thinking course in our semister 2 at National Institute of Technology, Warangal. We were a group of 5 student who made this project possible.
