@@ -13,14 +13,15 @@ Visual impairment affects millions globally, limiting independence and mobility.
 
 3. Our current features 
 
-Detachable Design
+-> Detachable Design
 
 Unlike existing solutions that require specialized hardware (e.g., smart sticks or wearables), this device can attach to any cane, making it cost-effective and versatile.
 
-Online and ofline compatibilty 
+-> Online and ofline compatibilty 
 
-Online - object detection and text to speech commands 
-Offline - Sensor based path  detecion and pattern based buzzer alerts 
+Online - object detection and text to speech commands.
+
+Offline - Sensor based path  detecion and pattern based buzzer alerts.
 
 4. Future scope 
 
